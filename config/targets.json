@@ -1,0 +1,9 @@
+[{
+    "Target"    :    "EllucianAll",
+    "keys"    :    [{
+                    "Name":"Name"
+                  }],
+    "assessments" :[
+      {"Name":"GIS", "Duration":20, "Ruleset":["BEST","RUN","VUL"]}
+    ]
+}]
